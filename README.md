@@ -9,6 +9,4 @@ I'm currently learning full stack web development and participating in competiti
 
 
 
-[![Nikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-nick16)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-nick16&show_icons=true)
+![Nikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-nick16&show_icons=true&theme=radical)
