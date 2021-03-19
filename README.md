@@ -1,4 +1,4 @@
-#### Hey **I'm Nikit!**
+### Hey **I'm Nikit!**
 
   :mortar_board: I am a freshmen at Vellore Institute of Technology, Bhopal pursuing my Bachelors in Computer Science Engineering.
 
@@ -6,6 +6,6 @@
 
   :space_invader: I like working with Python
 
-#### **My Stats** :man_technologist:
+### **My Stats** :man_technologist:
 
 ![Nikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-nick16&show_icons=true&theme=radical)
