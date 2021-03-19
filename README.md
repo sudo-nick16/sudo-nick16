@@ -5,8 +5,6 @@
 I'm currently learning full stack web development and participating in competitive programming contests.*
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sudo-nick16)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+My Stats :man_technologist:
 
 ![Nikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-nick16&show_icons=true&theme=radical)
