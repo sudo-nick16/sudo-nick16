@@ -4,7 +4,7 @@
 
   :grinning: I'm currently learning full stack web development.
 
-  :space_invader: I like working with Python
+  :space_invader: I like working with Python.
 
 ### **My Stats** :man_technologist:
 
