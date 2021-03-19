@@ -1,10 +1,11 @@
-# Welcome to my GitHub profile!
+#### Hey **I'm Nikit!**
 
+  :mortar_board: I am a freshmen at Vellore Institute of Technology, Bhopal pursuing my Bachelors in Computer Science Engineering.
 
-*Hey, this is Nikit, I'm a freshmen at VIT,Bhopal majoring in Computer Science. I wanna gain as much knowledge as I can about computers. I love to code - it means everything to me.
-I'm currently learning full stack web development and participating in competitive programming contests.*
+  :grinning: I'm currently learning full stack web development.
 
+  :space_invader: I like working with Python
 
-My Stats :man_technologist:
+#### **My Stats** :man_technologist:
 
 ![Nikit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-nick16&show_icons=true&theme=radical)
