@@ -1,6 +1,6 @@
 ### Hey **I'm Nikit!**
 
-  :mortar_board: I am a freshmen at Vellore Institute of Technology, Bhopal pursuing my Bachelors in Computer Science Engineering.
+  :mortar_board: I am a freshman at Vellore Institute of Technology, Bhopal pursuing my Bachelors in Computer Science Engineering.
 
   :grinning: I'm currently learning full stack web development.
 
