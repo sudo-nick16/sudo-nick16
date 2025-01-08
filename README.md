@@ -1,2 +1,2 @@
-[x.com](https://x.com/sudonick16)<br/>
+[x.com](https://x.com/sudonickk)<br/>
 [blogs](https://sudonick.dev)<br/>
